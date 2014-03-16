@@ -2,8 +2,7 @@
     "name": "cundd/noshi-boilerplate",
     "description": "Boilerplate for a NoShi website",
     "require": {
-        "cundd/noshi": "*",
-        "cundd/noshi-website": "*"
+        "cundd/noshi": "*"
     },
     "license": "MIT",
     "authors": [
