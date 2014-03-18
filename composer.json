@@ -11,5 +11,11 @@
             "email": "d@cundd.net"
         }
     ],
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+	"repositories": [
+		{
+			"type": "vcs",
+			"url": "https://github.com/cundd/noshi.git"
+		}
+	]
 }
