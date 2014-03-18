@@ -2,7 +2,7 @@
 	"theme": "cundd/noshi-boilerplate",
 	"routing": {
 		"alias": {
-			"/": "/home/"
+			"/": "/Home/"
 		}
 	}
 
